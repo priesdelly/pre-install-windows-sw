@@ -1,0 +1,41 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2024-07-09T20:07:01.655-00:00",
+    "Sources": [
+        {
+            "Packages": [
+				{ "PackageIdentifier": "7zip.7zip"},
+				{ "PackageIdentifier": "Bitwarden.Bitwarden"},
+				{ "PackageIdentifier": "Piriform.CCleaner" },
+				{ "PackageIdentifier": "Discord.Discord"},
+				{ "PackageIdentifier": "Fork.Fork"},
+				{ "PackageIdentifier": "Foxit.FoxitReader.Inno"},
+				{ "PackageIdentifier": "Git.Git"},
+				{ "PackageIdentifier": "GnuPG.GnuPG"},
+				{ "PackageIdentifier": "GnuPG.Gpg4win"},
+				{ "PackageIdentifier": "Google.Chrome"},
+				{ "PackageIdentifier": "JAMSoftware.TreeSize.Free"},
+				{ "PackageIdentifier": "LINE.LINE"},
+				{ "PackageIdentifier": "Logitech.GHUB"},
+				{ "PackageIdentifier": "Microsoft.VisualStudioCode"},
+				{ "PackageIdentifier": "Mozilla.Firefox"},
+				{ "PackageIdentifier": "Notepad++.Notepad++"},
+				{ "PackageIdentifier": "Notion.Notion"},
+				{ "PackageIdentifier": "NZXT.CAM"},
+				{ "PackageIdentifier": "OpenJS.NodeJS.LTS" },
+				{ "PackageIdentifier": "RARLab.WinRAR"},
+				{ "PackageIdentifier": "Spotify.Spotify"},
+				{ "PackageIdentifier": "TeamViewer.TeamViewer"},
+				{ "PackageIdentifier": "Tonec.InternetDownloadManager"},
+				{ "PackageIdentifier": "VideoLAN.VLC"}
+            ],
+            "SourceDetails": {
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ],
+    "WinGetVersion": "1.8.1791"
+}
